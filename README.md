@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./teste.jpg](Teste legenda)
+![./teste.jpg](TESTE LEGENDA)
 
 Este repositório serve de exemplo para o teste.
